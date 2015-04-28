@@ -1,4 +1,4 @@
-# outset
+# outset-stylus
 
 Minimal, unassuming, front-end foundation. Configured for HTML5 and Sass, built with Gulp.
 *Outset-stylus* is a fork of *[outset](https://github.com/callmecavs/outset)*, made by
@@ -16,6 +16,7 @@ In your terminal:
 
 ```bash
 $ outset-stylus [path]
+$ cd [path]
 $ npm i
 $ gulp
 ```
