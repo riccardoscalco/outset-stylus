@@ -1,6 +1,6 @@
 # outset-stylus
 
-Minimal, unassuming, front-end foundation. Configured for HTML5 and Sass, built with Gulp.
+Minimal, unassuming, front-end foundation. Configured for HTML5 and Stylus, built with Gulp.
 *Outset-stylus* is a fork of *[outset](https://github.com/callmecavs/outset)*, made by
 [Michael Cavalea](https://github.com/callmecavs), where *stylus* is used in place of *sass*.
 
